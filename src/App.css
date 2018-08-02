@@ -30,4 +30,9 @@
 .firstHeaderClass {
   text-align: center;
   text-decoration-line: underline;
+  background-color: #ff0000;
+  color: #ffffff;
+  border: 5px solid #000000;
+  border-radius: 10px;
+
 }
